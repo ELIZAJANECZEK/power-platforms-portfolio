@@ -15,8 +15,9 @@ It includes a Power Automate flow that sends reminder emails **2 days before the
 - Outlook integration  
 
 ## 📷 Screenshots
-![App Screenshot](./screenshot1.png)
-![Flow Screenshot](./screenshot2.png)
+![App Screenshot](./CalenderView.png)
+![App Screenshot](./CalenderView2.png)
+![Flow Screenshot](./SendNotification_PAFlow.png)
 
 ## How It Works
 1. HR uploads the annual payroll cut-off schedule in advance.
