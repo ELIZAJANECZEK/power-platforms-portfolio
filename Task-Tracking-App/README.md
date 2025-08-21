@@ -18,8 +18,8 @@ This app helps teams track tasks, measure progress, and visualize data in Power 
 - Power BI (Reports & Dashboards)  
 
 ## Screenshots
-![App Screenshot](./screenshot1.png)
-![App Screenshot](./screenshot2.png)
+![App Screenshot](./Images./screenshot1.png)
+![App Screenshot](./Images/screenshot2.png)
 ![App Screenshot](./screenshot3.png)
 ![App Screenshot](./screenshot4.png)
 ![Power BI Screenshot](./screenshot5.png)
