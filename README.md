@@ -6,7 +6,14 @@ My goal is to grow as a Power Platform Developer and share my projects here.
 
 ##  Projects
 
-### 1. Payroll Calendar App
+### 1. Leave Request App + Approval flow
+- Easy and Clear request form for employee.
+- Automated approval flow.
+- Clear calender view in Sharepoint
+
+👉 [View Project](./Request Absence App))
+
+### 2. Payroll Calendar App
 - Tracks payroll cut-off dates  
 - Automated email reminders via Power Automate  
 - Helps HR teams avoid missed deadlines  
@@ -15,7 +22,7 @@ My goal is to grow as a Power Platform Developer and share my projects here.
 
 ---
 
-### 2. Task Tracking App
+### 3. Task Tracking App
 - Manage and track tasks  
 - Integrated with Power BI for reporting  
 - Improves team productivity and visibility  
