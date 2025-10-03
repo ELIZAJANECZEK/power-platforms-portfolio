@@ -11,7 +11,7 @@ My goal is to grow as a Power Platform Developer and share my projects here.
 - Automated approval flow.
 - Clear calender view in Sharepoint
 
-👉 [View Project](./Request_Absence_App))
+👉 [View Project](./Request Absence App)
 
 ### 2. Payroll Calendar App
 - Tracks payroll cut-off dates  
