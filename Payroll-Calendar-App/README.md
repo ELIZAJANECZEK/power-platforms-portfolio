@@ -14,7 +14,7 @@ It includes a Power Automate flow that sends reminder emails **2 days before the
 - Power Automate  
 - Outlook integration  
 
-## 📷 Screenshots
+## Screenshots
 ![App Screenshot](./Images/CalenderView.png)
 ![App Screenshot](./Images/CalenderView2.png)
 ![Flow Screenshot](./Images/SendNotification_PAFlow.png)
