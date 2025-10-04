@@ -29,10 +29,10 @@ Calendar View (SharePoint)
 ## Screenshots
 ![App Screenshot](./Images/app-screenshot.png)
 ![App Screenshot](./Images/app-screenshot1.png)
-![App Screenshot](./Images/3.png)
-![App Screenshot](./Images/4.png)
-![App Screenshot](./Images/5.png)
-![App Screenshot](./Images/6.png)
+![App Screenshot](./Images/app-screenshot3.png)
+![App Screenshot](./Images/app-screenshot4.png)
+![App Screenshot](./Images/app-screenshot5.png)
+![App Screenshot](./Images/app-screenshot6.png)
 
 ## How It Works
 Employee submits an absence request in Power Apps.
