@@ -27,7 +27,7 @@ Calendar View (SharePoint)
 -SharePoint Online
 
 ## Screenshots
-![App Screenshot](Request-Absence-App/Images/sc-App-1)
+![App Screenshot](./Images/app-screenshot.png)
 ![App Screenshot](./Images/2.png)
 ![App Screenshot](./Images/3.png)
 ![App Screenshot](./Images/4.png)
