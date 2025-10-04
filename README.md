@@ -35,5 +35,6 @@ My goal is to grow as a Power Platform Developer and share my projects here.
 - Power Apps (Canvas apps)  
 - Power Automate (Flows)  
 - Power BI (Reports & Dashboards)  
-- Data modeling & process automation  
+- Data modeling & process automation
+- SharePoint  
 - GitHub project documentation
