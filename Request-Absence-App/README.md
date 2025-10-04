@@ -28,7 +28,7 @@ Calendar View (SharePoint)
 
 ## Screenshots
 ![App Screenshot](./Images/app-screenshot.png)
-![App Screenshot](./Images/2.png)
+![App Screenshot](./Images/app-screenshot1.png)
 ![App Screenshot](./Images/3.png)
 ![App Screenshot](./Images/4.png)
 ![App Screenshot](./Images/5.png)
